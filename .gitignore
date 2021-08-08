@@ -1,0 +1,8 @@
+# venv
+../venv/
+
+# api
+*/*.env
+
+# System Files
+.DS_Store
